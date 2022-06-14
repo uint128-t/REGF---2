@@ -60,7 +60,7 @@
             this.label2.Location = new System.Drawing.Point(344, 9);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(36, 19);
+            this.label2.Size = new System.Drawing.Size(75, 41);
             this.label2.TabIndex = 5;
             this.label2.Text = "80%";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -74,7 +74,7 @@
             this.label1_.Location = new System.Drawing.Point(3, 9);
             this.label1_.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1_.Name = "label1_";
-            this.label1_.Size = new System.Drawing.Size(43, 19);
+            this.label1_.Size = new System.Drawing.Size(92, 41);
             this.label1_.TabIndex = 4;
             this.label1_.Text = "HKCR";
             this.label1_.Click += new System.EventHandler(this.label1__Click);
@@ -87,7 +87,7 @@
             this.trackBar1.Margin = new System.Windows.Forms.Padding(4);
             this.trackBar1.Maximum = 100;
             this.trackBar1.Name = "trackBar1";
-            this.trackBar1.Size = new System.Drawing.Size(282, 45);
+            this.trackBar1.Size = new System.Drawing.Size(282, 101);
             this.trackBar1.SmallChange = 5;
             this.trackBar1.TabIndex = 3;
             this.trackBar1.TickStyle = System.Windows.Forms.TickStyle.None;
@@ -129,7 +129,7 @@
             this.label4.Location = new System.Drawing.Point(344, 28);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(36, 19);
+            this.label4.Size = new System.Drawing.Size(75, 41);
             this.label4.TabIndex = 10;
             this.label4.Text = "80%";
             this.label4.Click += new System.EventHandler(this.label10_Click);
@@ -143,7 +143,7 @@
             this.label11_.Location = new System.Drawing.Point(3, 28);
             this.label11_.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11_.Name = "label11_";
-            this.label11_.Size = new System.Drawing.Size(37, 19);
+            this.label11_.Size = new System.Drawing.Size(77, 41);
             this.label11_.TabIndex = 9;
             this.label11_.Text = "HKU";
             this.label11_.Click += new System.EventHandler(this.label11_Click);
@@ -156,7 +156,7 @@
             this.trackBar2.Margin = new System.Windows.Forms.Padding(4);
             this.trackBar2.Maximum = 100;
             this.trackBar2.Name = "trackBar2";
-            this.trackBar2.Size = new System.Drawing.Size(282, 45);
+            this.trackBar2.Size = new System.Drawing.Size(282, 101);
             this.trackBar2.SmallChange = 5;
             this.trackBar2.TabIndex = 8;
             this.trackBar2.TickStyle = System.Windows.Forms.TickStyle.None;
@@ -170,7 +170,7 @@
             this.textBox1.ForeColor = System.Drawing.Color.Black;
             this.textBox1.Location = new System.Drawing.Point(53, 120);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(164, 25);
+            this.textBox1.Size = new System.Drawing.Size(164, 47);
             this.textBox1.TabIndex = 7;
             this.textBox1.Text = "fuck";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
@@ -184,7 +184,7 @@
             this.label9.Location = new System.Drawing.Point(3, 123);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(43, 19);
+            this.label9.Size = new System.Drawing.Size(92, 41);
             this.label9.TabIndex = 4;
             this.label9.Text = "SEED:";
             this.label9.Click += new System.EventHandler(this.label9_Click);
@@ -198,7 +198,7 @@
             this.label6.Location = new System.Drawing.Point(344, 47);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(36, 19);
+            this.label6.Size = new System.Drawing.Size(75, 41);
             this.label6.TabIndex = 13;
             this.label6.Text = "80%";
             this.label6.Click += new System.EventHandler(this.label6_Click);
@@ -212,7 +212,7 @@
             this.label4_.Location = new System.Drawing.Point(3, 47);
             this.label4_.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4_.Name = "label4_";
-            this.label4_.Size = new System.Drawing.Size(47, 19);
+            this.label4_.Size = new System.Drawing.Size(97, 41);
             this.label4_.TabIndex = 12;
             this.label4_.Text = "HKLM";
             this.label4_.Click += new System.EventHandler(this.label4__Click);
@@ -225,7 +225,7 @@
             this.trackBar3.Margin = new System.Windows.Forms.Padding(4);
             this.trackBar3.Maximum = 100;
             this.trackBar3.Name = "trackBar3";
-            this.trackBar3.Size = new System.Drawing.Size(282, 45);
+            this.trackBar3.Size = new System.Drawing.Size(282, 101);
             this.trackBar3.SmallChange = 5;
             this.trackBar3.TabIndex = 11;
             this.trackBar3.TickStyle = System.Windows.Forms.TickStyle.None;
@@ -241,7 +241,7 @@
             this.label8.Location = new System.Drawing.Point(344, 66);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(36, 19);
+            this.label8.Size = new System.Drawing.Size(75, 41);
             this.label8.TabIndex = 16;
             this.label8.Text = "80%";
             this.label8.Click += new System.EventHandler(this.label8_Click);
@@ -255,7 +255,7 @@
             this.label6_.Location = new System.Drawing.Point(3, 66);
             this.label6_.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6_.Name = "label6_";
-            this.label6_.Size = new System.Drawing.Size(48, 19);
+            this.label6_.Size = new System.Drawing.Size(104, 41);
             this.label6_.TabIndex = 15;
             this.label6_.Text = "Delete";
             this.label6_.Click += new System.EventHandler(this.label6__Click);
@@ -268,7 +268,7 @@
             this.trackBar4.Margin = new System.Windows.Forms.Padding(4);
             this.trackBar4.Maximum = 100;
             this.trackBar4.Name = "trackBar4";
-            this.trackBar4.Size = new System.Drawing.Size(282, 45);
+            this.trackBar4.Size = new System.Drawing.Size(282, 101);
             this.trackBar4.SmallChange = 5;
             this.trackBar4.TabIndex = 14;
             this.trackBar4.TickStyle = System.Windows.Forms.TickStyle.None;
@@ -277,7 +277,7 @@
             // 
             // Form4
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(26F, 55F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(388, 155);
@@ -303,6 +303,7 @@
             this.Margin = new System.Windows.Forms.Padding(5);
             this.MaximizeBox = false;
             this.Name = "Form4";
+            this.ShowInTaskbar = false;
             this.Text = "Settings";
             this.Load += new System.EventHandler(this.Form4_Load);
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
