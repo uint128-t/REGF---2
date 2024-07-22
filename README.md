@@ -1,4 +1,4 @@
-# RegFuck2
- RegFuck with improved UI
+# RegF***2
+ RegF*** with improved UI
  
 How did you find this?
